@@ -1,0 +1,294 @@
+Added pipe with ID 1 - 
+Added pipe with ID 1 - 
+Added compressor station with ID 1 - 
+Added pipe with ID 1 - 
+Added compressor station with ID 1 - 
+Saved to file: Voda.txt - 
+Saved to file: Voda.txt - 
+Added pipe with ID 1 - 
+Added compressor station with ID 1 - 
+Saved to file: Voda.txt - 
+Saved to file: Voda.txt - 
+Edited pipe with ID 1 - 
+Delited pipe with ID 1 - 
+Delited compressor station with ID 1 - 
+Loaded from file: Voda.txt - 
+Added compressor station with ID 1 - 
+Saved to file: Voda.txt - 
+Saved to file: Voda.txt - 
+Delited compressor station with ID 1 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 1 - 
+Added compressor station with ID 1 - 
+Added compressor station with ID 2 - 
+Saved to file: Voda.txt - 
+Saved to file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Edited pipe with ID 1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 1were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Station(s) are not found. - 
+Output of all compressor stations and pipes. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+The value entered is incorrect. - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Station(s) are not found. - 
+Loaded from file: Voda.txt - 
+Station(s) are not found. - 
+Loaded from file: Voda.txt - 
+Station(s) are not found or you specified the id of the same station. - 
+Output of all compressor stations and pipes. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+The value entered is incorrect. - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+The value entered is incorrect. - 
+The operation to create a new pipeline and connect it to the gas transportation network was cancelled. - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+The value entered is incorrect. - 
+The operation to create a new pipeline and connect it to the gas transportation network was cancelled. - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Edited pipe with ID 1 - 
+The operation to create a new pipeline and connect it to the gas transportation network was cancelled. - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Pipe with ID disconnected 1 - 
+Delited compressor station with ID 2 - 
+The operation to remove the compressor station from the gas transmission system was cancelled. - 
+The value entered is incorrect. - 
+Loaded from file: Voda.txt - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+The operation to create a new pipeline and connect it to the gas transportation network was cancelled. - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Edited compressor station with ID 1 - 
+Pipe with ID disconnected 1 - 
+Delited compressor station with ID 1 - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+The operation to create a new pipeline and connect it to the gas transportation network was cancelled. - 
+Loaded from file: Voda.txt - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+Added pipe with ID 2 - 
+Compressor stations 1 and 2were connected by a pipe to the id2 - 
+Edited pipe with ID 1 - 
+Compressor stations 2 and 1were connected by a pipe to the id1 - 
+Edited pipe with ID 1 - 
+Edited pipe with ID 1 - 
+Compressor stations 2 and 1were connected by a pipe to the id1 - 
+Delited pipe with ID 1 - 
+Pipe with ID disconnected 2 - 
+Delited compressor station with ID 1 - 
+Loaded from file: Voda.txt - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+The operation to create a new pipeline and connect it to the gas transportation network was cancelled. - 
+Edited pipe with ID 1 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Added compressor station with ID 3 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Added pipe with ID 2 - 
+Compressor stations 1 and 3were connected by a pipe to the id2 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 2 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 2 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 2 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+Added compressor station with ID 3 - 
+Compressor stations 1 and 3were connected by a pipe to the id2 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 2 - 
+Added compressor station with ID 3 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 1 and 3were connected by a pipe to the id2 - 
+Added pipe with ID 3 - 
+Added compressor station with ID 4 - 
+Compressor stations 3 and 4were connected by a pipe to the id3 - 
+Added pipe with ID 4 - 
+Added compressor station with ID 5 - 
+Compressor stations 3 and 5were connected by a pipe to the id4 - 
+Loaded from file: Voda.txt - 
+Added compressor station with ID 3 - 
+Added pipe with ID 2 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 2 - 
+Added compressor station with ID 3 - 
+Added compressor station with ID 4 - 
+Added pipe with ID 3 - 
+Compressor stations 1 and 3were connected by a pipe to the id1 - 
+Compressor stations 1 and 4were connected by a pipe to the id2 - 
+Compressor stations 4 and 2were connected by a pipe to the id3 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 2 - 
+Added compressor station with ID 3 - 
+Added pipe with ID 3 - 
+Added compressor station with ID 4 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 1 and 4were connected by a pipe to the id2 - 
+Compressor stations 4 and 3were connected by a pipe to the id3 - 
+Added pipe with ID 4 - 
+Added compressor station with ID 5 - 
+Compressor stations 4 and 5were connected by a pipe to the id4 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Added compressor station with ID 3 - 
+Added compressor station with ID 4 - 
+Added compressor station with ID 5 - 
+Added pipe with ID 2 - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Added pipe with ID 3 - 
+Compressor stations 2 and 4were connected by a pipe to the id3 - 
+Added pipe with ID 4 - 
+Compressor stations 3 and 5were connected by a pipe to the id4 - 
+Added pipe with ID 5 - 
+Compressor stations 4 and 5were connected by a pipe to the id5 - 
+Delited pipe with ID 4 - 
+Pipe with ID disconnected 2 - 
+Delited compressor station with ID 3 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Loaded from file: Voda.txt - 
+Added compressor station with ID 3 - 
+Added compressor station with ID 4 - 
+Added compressor station with ID 5 - 
+Added pipe with ID 2 - 
+Added pipe with ID 3 - 
+Added pipe with ID 4 - 
+Added pipe with ID 5 - 
+Added pipe with ID 6 - 
+Saved to file: Voda.txt - 
+Saved to file: Voda.txt - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Compressor stations 3 and 4were connected by a pipe to the id3 - 
+Compressor stations 4 and 5were connected by a pipe to the id4 - 
+Compressor stations 1 and 4were connected by a pipe to the id5 - 
+Compressor stations 1 and 5were connected by a pipe to the id6 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Compressor stations 3 and 4were connected by a pipe to the id3 - 
+Compressor stations 4 and 5were connected by a pipe to the id4 - 
+Compressor stations 1 and 4were connected by a pipe to the id5 - 
+Compressor stations 1 and 5were connected by a pipe to the id6 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Compressor stations 3 and 4were connected by a pipe to the id3 - 
+Compressor stations 4 and 5were connected by a pipe to the id4 - 
+Compressor stations 1 and 4were connected by a pipe to the id5 - 
+Compressor stations 1 and 5were connected by a pipe to the id6 - 
+Loaded from file: Voda.txt - 
+Added pipe with ID 7 - 
+Added pipe with ID 8 - 
+Added compressor station with ID 6 - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Compressor stations 3 and 4were connected by a pipe to the id3 - 
+Compressor stations 4 and 5were connected by a pipe to the id4 - 
+Compressor stations 1 and 4were connected by a pipe to the id5 - 
+Compressor stations 1 and 5were connected by a pipe to the id6 - 
+Compressor stations 1 and 6were connected by a pipe to the id7 - 
+Compressor stations 6 and 5were connected by a pipe to the id8 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Compressor stations 4 and 5were connected by a pipe to the id3 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 1 and 3were connected by a pipe to the id2 - 
+Compressor stations 2 and 3were connected by a pipe to the id3 - 
+Compressor stations 3 and 4were connected by a pipe to the id4 - 
+Station(s) are not found or you specified the id of the same station. - 
+The operation to remove all pipes and compressor stations was cancelled. - 
+Compressor stations 4 and 5were connected by a pipe to the id5 - 
+Compressor stations 1 and 4were connected by a pipe to the id6 - 
+Loaded from file: Voda.txt - 
+Compressor stations 1 and 2were connected by a pipe to the id1 - 
+Compressor stations 2 and 3were connected by a pipe to the id2 - 
+Compressor stations 3 and 4were connected by a pipe to the id3 - 
+A matrix of weights has been created. - 
+The ids of the starting compressor station and ending compressor station are entered to find the maximum network flow. - 
+A matrix of weights has been created. - 
+The ids of the starting compressor station and ending compressor station are entered to find the maximum network flow. - 
+A matrix of weights has been created. - 

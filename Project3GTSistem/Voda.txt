@@ -1,0 +1,11 @@
+Pipe: 1; Name: Oil; Length: 567; Diameter: 500; Under repair: 0; ID entrance compressor station: 0; ID exit compressor station: 0
+Pipe: 2; Name: pipe1; Length: 34; Diameter: 500; Under repair: 0; ID entrance compressor station: 0; ID exit compressor station: 0
+Pipe: 3; Name: pip; Length: 23; Diameter: 500; Under repair: 0; ID entrance compressor station: 0; ID exit compressor station: 0
+Pipe: 4; Name: p; Length: 78; Diameter: 500; Under repair: 0; ID entrance compressor station: 0; ID exit compressor station: 0
+Pipe: 5; Name: vod; Length: 45; Diameter: 500; Under repair: 0; ID entrance compressor station: 0; ID exit compressor station: 0
+Pipe: 6; Name: water; Length: 67; Diameter: 500; Under repair: 0; ID entrance compressor station: 0; ID exit compressor station: 0
+Compressor_Station: 1; Namest: Oil1; Workshops: 78; ActiveWorkshops: 45; Efficiency: 57; ID diameter entrance: 500; ID diameter exit: 500
+Compressor_Station: 2; Namest: Oil2; Workshops: 78; ActiveWorkshops: 24; Efficiency: 30; ID diameter entrance: 500; ID diameter exit: 500
+Compressor_Station: 3; Namest: Voda; Workshops: 56; ActiveWorkshops: 45; Efficiency: 80; ID diameter entrance: 500; ID diameter exit: 500
+Compressor_Station: 4; Namest: oil; Workshops: 78; ActiveWorkshops: 45; Efficiency: 57; ID diameter entrance: 500; ID diameter exit: 500
+Compressor_Station: 5; Namest: gas; Workshops: 89; ActiveWorkshops: 57; Efficiency: 64; ID diameter entrance: 500; ID diameter exit: 500
